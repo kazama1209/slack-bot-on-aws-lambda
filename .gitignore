@@ -1,0 +1,11 @@
+# Ignore bundle config.
+.bundle
+
+# Ignore ruby version.
+.ruby-version
+
+# Ignore ruby gems.
+/vendor/bundle
+
+# Ignore environment variables.
+.env
